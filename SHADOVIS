@@ -117,7 +117,7 @@ function sendmsg(text, hex)
             {
                 ["title"] = "Shadovis RPG Notify",
                 ["description"] = text,
-                ["type"] = "SourceSans",
+                ["type"] = "rich",
                 ["color"] = hex,
                 ["timestamp"] = DateTime.now():ToIsoDate()
             }
