@@ -110,7 +110,7 @@ local function playerlvl()
 end
 
 function sendmsg(text, hex)
-    local url = (web or "https://pornhub.com/")
+    local url = (web or "https://www.youtube.com/watch?v=dQw4w9WgXcQ")
     local data = {
         ["content"] = "",
         ["embeds"] = {
