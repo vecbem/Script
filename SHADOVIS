@@ -212,7 +212,7 @@ for i,v in pairs(cha.Equipment:GetChildren()) do
 end 
 
 local window = lib:CreateWindow({
-    Name = "(beta) Rodes",
+    Name = "Rodes",
     Themeable = {
         Info = {"zrre#8008"},
         Credit = false, 
