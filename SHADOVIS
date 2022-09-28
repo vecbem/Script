@@ -1148,3 +1148,6 @@ end)
 
 -- Anti Afk zrre#8008
 loadstring(game:HttpGet("https://raw.githubusercontent.com/vecbem/Roblox/main/AntiAfk"))()
+
+-- Anti Lag zrre#8008
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vecbem/Roblox/main/AntiLag"))()
