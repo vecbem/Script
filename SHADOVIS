@@ -1,5 +1,4 @@
- -- zrre#8008/Rodes
- -- discord.gg/GFagM8yDUf
+-- discord.gg/GFagM8yDUf
 
 repeat wait() until game:IsLoaded() 
 
